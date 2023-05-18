@@ -2,7 +2,7 @@ import './button.css';
 
 export const createButton = ({
   primary = false,
-  size = 'medium',
+  size = 'large',
   backgroundColor,
   label,
   onClick,

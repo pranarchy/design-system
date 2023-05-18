@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "chromatic": "npx chromatic --project-token=chpt_7ea6c68728d3503"
   },
   "keywords": [],
   "author": "",
@@ -23,5 +24,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "storybook": "^7.0.12"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "design-system@1.0.0"
 }
