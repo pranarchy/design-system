@@ -29,6 +29,13 @@ export const Primary = {
   },
 };
 
+Primary.parameters = {
+  design: {
+    type: "figma",
+    url: "https://www.figma.com/file/Y9YOmDeApsqXF5xPqIk61o/Design-System?type=design&node-id=48%3A439&t=ZrxdqMtfIJnWW5hM-1",
+  },
+};
+
 export const Secondary = {
   args: {
     label: 'Button',
